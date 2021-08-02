@@ -1,3 +1,4 @@
-CSVs/
+.CSVs/
 *.csv
 .ipynb_checkpoints/
+questions.txt
