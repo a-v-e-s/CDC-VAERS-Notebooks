@@ -2,9 +2,10 @@ how many people died from covid-19?
 how many people have been seriously harmed by covid-19?
 who was killed or seriously harmed by covid=19? (age,sex,race,socioeconomic_status,occupation,etc)
 when and where is covid-19 most dangerous? (time of day, time of year, indoors/outdoors/ etc)
+what is the false-positive rate for PCR tests?
 
 how many people have died from one of the covid-vaccines?
 how many people have been seriously harmed by one of the covid vaccines?
 who was harmed or killed by one of the covid vaccines?
 how much harm and death is being caused by each of the various vaccines?
-
+are some vaccines relatively more dangerous to some groups of people than to others?
